@@ -23,7 +23,7 @@ email: devcornerorg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   DevCorner è un'iniziativa che nasce con l'intenzione di creare un network di persone accomunate dal desiderio di condividere con altre persone le proprie esperienze in ambito lavorativo Il progetto non ha fini di lucro, e tutte le attività verranno erogate su base volontaria e sotto forma di opere gratuite.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://devcorner.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://devcorner.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devcornerorg
 github_username:  devcornerorg
 
